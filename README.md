@@ -3,10 +3,8 @@
 
 之前关于 DDD 学的并不系统，只是在通过一些文档来浅尝辄止，借助书来具体学一下。
 
-<div style="display:flex">
-    <img src="https://image-1252109614.cos.ap-beijing.myqcloud.com/2023/04/27/6449571f3525f.png" style="width:50%;margin-right:5%">
-    <img src="https://image-1252109614.cos.ap-beijing.myqcloud.com/2023/04/27/64495726ed049.png" style="width:50%">
-</div>
+| ![](https://image-1252109614.cos.ap-beijing.myqcloud.com/2023/04/27/6449571f3525f.png) | ![](https://image-1252109614.cos.ap-beijing.myqcloud.com/2023/04/27/64495726ed049.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 # 第一部分 运用领域模型
 
